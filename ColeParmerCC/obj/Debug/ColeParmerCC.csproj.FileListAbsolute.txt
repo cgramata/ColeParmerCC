@@ -1,0 +1,9 @@
+c:\users\carl gramata\source\repos\ColeParmerCC\ColeParmerCC\bin\Debug\ColeParmerCC.exe.config
+c:\users\carl gramata\source\repos\ColeParmerCC\ColeParmerCC\bin\Debug\ColeParmerCC.exe
+c:\users\carl gramata\source\repos\ColeParmerCC\ColeParmerCC\bin\Debug\ColeParmerCC.pdb
+c:\users\carl gramata\source\repos\ColeParmerCC\ColeParmerCC\bin\Debug\Newtonsoft.Json.dll
+c:\users\carl gramata\source\repos\ColeParmerCC\ColeParmerCC\bin\Debug\Newtonsoft.Json.xml
+c:\users\carl gramata\source\repos\ColeParmerCC\ColeParmerCC\obj\Debug\ColeParmerCC.csprojResolveAssemblyReference.cache
+c:\users\carl gramata\source\repos\ColeParmerCC\ColeParmerCC\obj\Debug\ColeParmerCC.csproj.CoreCompileInputs.cache
+c:\users\carl gramata\source\repos\ColeParmerCC\ColeParmerCC\obj\Debug\ColeParmerCC.exe
+c:\users\carl gramata\source\repos\ColeParmerCC\ColeParmerCC\obj\Debug\ColeParmerCC.pdb
